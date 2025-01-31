@@ -1,7 +1,5 @@
 ﻿using System;
 
-// [자동 하강 계산 참고 사이트] : https://freeprog.tistory.com/409
-
 namespace C__My_Project
 {
     internal class InputManager
