@@ -1,0 +1,7 @@
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\학원\국기 과정\유니티\C#\과제\테트리스 콘솔 게임\Tetris\Tetris\obj\Debug\Tetris.pdb
