@@ -1,9 +1,5 @@
 ﻿using System;
 
-// [참고 사이트] : https://dev-with-precious-dreams.tistory.com/12
-// [참고 사이트] : https://michelangeloo.tistory.com/38
-// [참고 사이트] : https://blog.naver.com/hwasedo/221422987384
-
 namespace C__My_Project
 {
     // 게임 상태를 나타내는 Enum
